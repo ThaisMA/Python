@@ -14,5 +14,4 @@ number_3 = (input("Third Note: "))
 number_4 = (input("Fourth Note: "))
 
 average = (int(number_1) + int(number_2) + int(number_3) + int(number_4)) / 4
-
 print("The final note is:", average)
