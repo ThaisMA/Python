@@ -1,1 +1,1 @@
-# Exercícios de aprendizado de Python
+# Exercícios de aprendizado de Python (Python Brasil)
